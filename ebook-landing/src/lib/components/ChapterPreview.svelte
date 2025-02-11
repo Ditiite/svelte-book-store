@@ -81,12 +81,6 @@
 </section>
 
 <style>
-    .chapter-preview {
-        padding: 80px;
-        margin-left: 12vw;
-        margin-right: 20vw;
-        max-width: 1150px;
-    }
     .chapter-container {
         display: flex;
         justify-content: space-between;
