@@ -50,7 +50,7 @@
     <div class="additional-info mt-m">
         <Button class="mt-s">BUY NOW</Button>
         <p class="mt-m">Any other question?</p>
-        <a href="https://x.com/KIZO_ES">
+        <a href="https://x.com/Ya2020Dita">
             <p>
                 Hit me up on twitter
                 <img
