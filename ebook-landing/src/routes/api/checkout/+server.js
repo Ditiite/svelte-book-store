@@ -23,5 +23,4 @@ export async function POST() {
     } catch (error) {
         return json({ error }, { status: 500 });
     };
-    )
 };
